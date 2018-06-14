@@ -11,7 +11,7 @@ Componentes:
 ![Screenshot](image.png)
 
 ### Links
-> [Link para teste no Tinkercad](https://www.tinkercad.com/things/2p7MHLkXCEb)
+> [Link para teste no Tinkercad](https://www.tinkercad.com/things/2p7MHLkXCEb)</br>
 > [Video demonstrativo do jogo](https://www.youtube.com/watch?v=sKVX80zLAZs/0.jpg)
 
 ### Regras do jogo
