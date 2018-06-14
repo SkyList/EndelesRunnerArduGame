@@ -2,7 +2,7 @@
 [JOGO] desenvolvido para arduino
 ### Endeless Runner
 
-Jogo desenvolvido para plataforma arduino.
+Jogo desenvolvido para plataforma arduino.</br>
 com:
 * Display 16x2.
 * Push button.
