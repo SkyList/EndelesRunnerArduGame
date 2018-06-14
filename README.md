@@ -12,7 +12,7 @@ Componentes:
 
 ### Links
 > [Link para teste no Tinkercad](https://www.tinkercad.com/things/2p7MHLkXCEb)
-> [Video demonstrativo do jogo](https://www.youtube.com/watch?v=sKVX80zLAZs/0.jpg)](https://www.youtube.com/watch?v=sKVX80zLAZs/0.jpg)
+> [Video demonstrativo do jogo](https://www.youtube.com/watch?v=sKVX80zLAZs/0.jpg)
 
 ### Regras do jogo
 Ao apertar o botão o personagem ira "pular" para a linha de cima.
