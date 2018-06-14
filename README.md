@@ -3,7 +3,7 @@
 ### Endeless Runner
 
 Jogo desenvolvido para plataforma arduino.</br>
-com:
+Componentes:
 * Display 16x2.
 * Push button.
 
