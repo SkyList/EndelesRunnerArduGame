@@ -11,8 +11,8 @@ Componentes:
 ![Screenshot](image.png)
 
 ### Links
-> [Link para teste no Tinkercad](https://www.tinkercad.com/things/2p7MHLkXCEb)</br>
-> [Video demonstrativo do jogo](https://www.youtube.com/watch?v=sKVX80zLAZs/0.jpg)
+> Link para teste [Tinkercad](https://www.tinkercad.com/things/2p7MHLkXCEb)</br>
+> Demonstrativo do jogo [Video](https://youtu.be/abxUfcDR3wM)
 
 ### Regras do jogo
 Ao apertar o botão o personagem ira "pular" para a linha de cima.
